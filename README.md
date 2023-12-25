@@ -1,2 +1,3 @@
 # c2024
-2024 年資訊之芽 C/C++ 班課程網站 | Sprout 2024 C/C++ course 
+
+markdown 編輯表格時，若遇到困難，推薦使用 [typora](https://typora.io/) 編輯。
