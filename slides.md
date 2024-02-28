@@ -5,7 +5,7 @@
 | ------------ | ----------------------------------------- | ---- | ---- |
 |課程介紹||[Week1-0 課程介紹](https://drive.google.com/file/d/1KIDguKqFN4l3so5oj2KVXi-X5oE6rboP/view?usp=drive_link)||
 |Hello world||[Week1-1 Hello World!](https://drive.google.com/file/d/1RBAi4fEpeQQUCE1V8VcznDeWTacDKpIP/view?usp=drive_link)||
-|基礎IO、變數、運算子||||
+|基礎IO、變數、運算子||[Week1-2](https://slides.com/gtcoding/20230304-i-o)||
 
 ## 第二週 03/09
 
