@@ -5,7 +5,7 @@
 | ------------ | ----------------------------------------- | ---- | ---- |
 |課程介紹|[Week1-0 課程介紹][tp-intro]|[Week1-0 課程介紹][hc-intro]|[竹區影片][hc-intro-recording]|
 |Hello world|[Week1-1 Hello World!][tp-helloworld]|[Week1-1 Hello World!][hc-helloworld]|[竹區影片][hc-helloworld-recording]|
-|基礎IO、變數、運算子|[Week1-2 變數][tp-variable]|[Week1-2][hc-variable]||
+|基礎IO、變數、運算子|[Week1-2 變數][tp-variable]|[Week1-2][hc-variable]|[竹區影片][hc-variable-recording]|
 
 [tp-intro]: https://drive.google.com/file/d/13yb0r1MYhdP-QHNYRJbcKOjXIXR3slbJ/view?usp=sharing
 [tp-helloworld]: https://drive.google.com/file/d/149cOUNU2gzOlkEH75QURinYVANRzQJ4A/view?usp=sharing
@@ -15,6 +15,7 @@
 [hc-helloworld]: https://drive.google.com/file/d/1RBAi4fEpeQQUCE1V8VcznDeWTacDKpIP/view?usp=drive_link
 [hc-helloworld-recording]: https://youtu.be/cA_8SfrT3eE
 [hc-variable]: https://slides.com/gtcoding/20230304-i-o
+[hc-variable-recording]: https://youtu.be/sOurVZ2WRLc
 
 ## 第二週 03/09
 
