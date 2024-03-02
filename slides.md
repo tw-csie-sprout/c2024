@@ -7,7 +7,7 @@
 |Hello world|[Week1-1 Hello World!][tp-helloworld]|[Week1-1 Hello World!][hc-helloworld]||
 |基礎IO、變數、運算子|[Week1-2 變數][tp-variable]|[Week1-2][hc-variable]||
 
-[tp-intro]: https://drive.google.com/file/d/11uwJ0u0cK-XfdiC2V88H2vorXNytZhNd/view?usp=sharing
+[tp-intro]: https://drive.google.com/file/d/13yb0r1MYhdP-QHNYRJbcKOjXIXR3slbJ/view?usp=sharing
 [tp-helloworld]: https://drive.google.com/file/d/149cOUNU2gzOlkEH75QURinYVANRzQJ4A/view?usp=sharing
 [tp-variable]: https://drive.google.com/file/d/1dkCwn0g9bCSxSUk9MXMIw-GejH1-Tk5n/view?usp=drive_link
 [hc-intro]: https://drive.google.com/file/d/1KIDguKqFN4l3so5oj2KVXi-X5oE6rboP/view?usp=drive_link
