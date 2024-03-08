@@ -21,6 +21,9 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
+|條件式||[Week2-1 條件式][hc-if-else]||
+
+[hc-if-else]: https://drive.google.com/file/d/1CdAVyx8jFjl1vtDc1SInNx5RjMEhS1vK/view
 
 ## 第三週 03/16
 
