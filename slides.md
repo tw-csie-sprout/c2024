@@ -24,7 +24,7 @@
 |條件式||[Week2-1 條件式][hc-if-else]||
 |迴圈||[Week2-2 迴圈][hc-loops]||
 
-[hc-if-else]: https://drive.google.com/file/d/1CdAVyx8jFjl1vtDc1SInNx5RjMEhS1vK/view
+[hc-if-else]: https://drive.google.com/file/d/1l_57qsBn0BMPfnEgDpgNfR9n7e8wHT3_/view?usp=drive_link
 [hc-loops]: https://slides.com/felixhuang-2/sprout-2024-loops
 
 ## 第三週 03/16
