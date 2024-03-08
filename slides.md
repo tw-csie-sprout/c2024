@@ -22,8 +22,10 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 |條件式||[Week2-1 條件式][hc-if-else]||
+|迴圈||[Week2-2 迴圈][hc-loops]||
 
 [hc-if-else]: https://drive.google.com/file/d/1CdAVyx8jFjl1vtDc1SInNx5RjMEhS1vK/view
+[hc-loops]: https://slides.com/felixhuang-2/sprout-2024-loops
 
 ## 第三週 03/16
 
