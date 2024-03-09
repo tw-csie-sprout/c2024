@@ -27,7 +27,7 @@
 [hc-if-else]: https://drive.google.com/file/d/1l_57qsBn0BMPfnEgDpgNfR9n7e8wHT3_/view?usp=drive_link
 [hc-loops]: https://slides.com/felixhuang-2/sprout-2024-loops
 [tp-if-else]: https://drive.google.com/file/d/17KMBGD1OvUSnEO_WxVM_dGBNd-4owMRN/view?usp=drive_link
-[tp-loops]: https://drive.google.com/file/d/1HkJ4Q5RHI6lf_EZfCzksAygUAWhOZBbm/view?usp=drive_link
+[tp-loops]: https://drive.google.com/file/d/1HkJ4Q5RHI6lf_EZfCzksAygUAWhOZBbm/view?usp=sharing
 
 ## 第三週 03/16
 
