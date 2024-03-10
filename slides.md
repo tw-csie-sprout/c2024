@@ -23,7 +23,7 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 |條件式|[Week2-1 條件式][tp-if-else]|[Week2-1 條件式][hc-if-else]|[北區影片][tp-if-else-recording]<br>[竹區影片][hc-if-else-recording]|
-|迴圈|[Week2-2 迴圈][tp-loops]|[Week2-2 迴圈][hc-loops]||
+|迴圈|[Week2-2 迴圈][tp-loops]|[Week2-2 迴圈][hc-loops]|[北區影片（去年）][[tp-loops-video-alter]]|
 
 [hc-if-else]: https://drive.google.com/file/d/1l_57qsBn0BMPfnEgDpgNfR9n7e8wHT3_/view?usp=drive_link
 [hc-if-else-recording]: https://youtu.be/662wWF-F_F8
@@ -31,6 +31,7 @@
 [tp-if-else]: https://drive.google.com/file/d/17KMBGD1OvUSnEO_WxVM_dGBNd-4owMRN/view?usp=drive_link
 [tp-loops]: https://drive.google.com/file/d/1HkJ4Q5RHI6lf_EZfCzksAygUAWhOZBbm/view?usp=sharing
 [tp-if-else-recording]: https://www.youtube.com/watch?v=eKCSaUlCqmc
+[tp-loops-video-alter]: https://www.youtube.com/watch?v=VeZId6pmC9c
 
 ## 第三週 03/16
 
