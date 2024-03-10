@@ -3,12 +3,13 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|課程介紹|[Week1-0 課程介紹][tp-intro]|[Week1-0 課程介紹][hc-intro]|[竹區影片][hc-intro-recording]|
-|Hello world|[Week1-1 Hello World!][tp-helloworld]|[Week1-1 Hello World!][hc-helloworld]|[竹區影片][hc-helloworld-recording]|
+|課程介紹|[Week1-0 課程介紹][tp-intro]|[Week1-0 課程介紹][hc-intro]|[竹區影片][hc-intro-recording] [北區影片][tp-intro-video]|
+|Hello world|[Week1-1 Hello World!][tp-helloworld]|[Week1-1 Hello World!][hc-helloworld]|[竹區影片][hc-helloworld-recording] [北區影片][tp-intro-video]|
 |基礎IO、變數、運算子|[Week1-2 變數][tp-variable]|[Week1-2][hc-variable]|[竹區影片][hc-variable-recording]|
 
 [tp-intro]: https://drive.google.com/file/d/13yb0r1MYhdP-QHNYRJbcKOjXIXR3slbJ/view?usp=sharing
 [tp-helloworld]: https://drive.google.com/file/d/1Oi6byXVdnzruwLhI5GItIHgH10VgjPwL/view?usp=sharing
+[tp-intro-video]: https://youtu.be/1Xa1lgwiX5k
 [tp-variable]: https://drive.google.com/file/d/1dkCwn0g9bCSxSUk9MXMIw-GejH1-Tk5n/view?usp=drive_link
 [hc-intro]: https://drive.google.com/file/d/1KIDguKqFN4l3so5oj2KVXi-X5oE6rboP/view?usp=drive_link
 [hc-intro-recording]: https://youtu.be/Q4KHegZ15q4
