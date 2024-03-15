@@ -6,7 +6,7 @@
 | :--: | :--: | :----------------------------------------------------- | :--------------------------------------------------------------- | :------- | :------------------------------- |
 | 0302 | 01 | [289 - 福祿猴的反敗][neoj-289] | [287 - 喵][neoj-287]<br>[805 - 芽芽停車場][neoj-805] |  |   |
 | 0309 | 02 | [645 - 三角形判斷][neoj-645] <br> [893 - 數字塔][neoj-893] | [451 - 我沒辦法AC都是13的錯][neoj-451] <br> [523 - 考拉茲猜想][neoj-523] | [208 - 季節判斷-2015][neoj-208] <br> [6005 - 排序了嗎？][neoj-6005] <br> [2432 - 皮卡丘打排球][neoj-2432] <br> [kahoot (竹區)][kahoot-條件式] <br> [801 - 3n+1 問題][neoj-801] <br> [206 - 九九乘法表][neoj-206] |  |
-| 0316 | 03 |  |  |  |   |
+| 0316 | 03 | [602 - 小蘋果][neoj-602] <br> [894 - 姓名縮寫][neoj-894] | [294 - 我愛零分][neoj-294] <br> [953 - 維吉尼亞的統計學][neoj-953] | [209 - σ．σ - 2015][neoj-209] <br> [217 - 凱薩密碼][neoj-217] <br> [988 - Sproutle][neoj-988] <br> [2333 - 訊息處理][neoj-2333] |   |
 | 0323 | 04 |  |  |  |   |
 | 0330 | 05 |  |  |  |   |
 | 0406 | 06 | 兒童清明連假 |  |  |   |
@@ -39,3 +39,13 @@
 [neoj-893]: https://neoj.sprout.tw/problem/893/
 [neoj-523]: https://neoj.sprout.tw/problem/523/
 [neoj-801]: https://neoj.sprout.tw/problem/801/
+
+<!-- Week 3 -->
+[neoj-602]: https://neoj.sprout.tw/problem/602/
+[neoj-209]: https://neoj.sprout.tw/problem/209/
+[neoj-294]: https://neoj.sprout.tw/problem/294/
+[neoj-953]: https://neoj.sprout.tw/problem/953/
+[neoj-894]: https://neoj.sprout.tw/problem/894/
+[neoj-217]: https://neoj.sprout.tw/problem/217/
+[neoj-988]: https://neoj.sprout.tw/problem/988/
+[neoj-2333]: https://neoj.sprout.tw/problem/2333/
