@@ -37,6 +37,10 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
+| | | | |
+| C-style String | | [Week3-2 C-style String][hc-c-string] | |
+
+[hc-c-string]: https://slides.com/gtcoding/2024-c-string
 
 ## 第四週 03/23
 
