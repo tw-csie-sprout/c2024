@@ -37,11 +37,12 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 一維陣列 | | [Week3-1 一維陣列][hc-1D-array] | |
+| 一維陣列 |[Week3-1 一維陣列][tp-1D-array] | [Week3-1 一維陣列][hc-1D-array] | |
 | C-style String | | [Week3-2 C-style String][hc-c-string] | |
 
 [hc-1D-array]: https://drive.google.com/file/d/1hYqneUoF2fa1SUecA2sSaTrElKHOb5l-/view?usp=sharing
 [hc-c-string]: https://slides.com/gtcoding/2024-c-string
+[tp-1D-array]: https://drive.google.com/file/d/1OIHEARTTtyShqxKVaXM_xr7kcgeajfTz/view?usp=sharing
 
 ## 第四週 03/23
 
