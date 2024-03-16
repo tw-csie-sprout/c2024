@@ -38,7 +38,7 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 | 一維陣列 |[Week3-1 一維陣列][tp-1D-array] | [Week3-1 一維陣列][hc-1D-array] | [北區影片][tp-c-1D-array-recording] [竹區影片][hc-1D-array-recording] |
-| C-style String |[Week3-2 C-Style String (上課投影片)][tp-c-str-slide] <br>  [Week3-2 C-Style String (複習講義)][tp-c-str-handout]| [Week3-2 C-style String][hc-c-string] |[北區影片][tp-c-str-recording] |
+| C-style String |[Week3-2 C-Style String (上課投影片)][tp-c-str-slide] <br>  [Week3-2 C-Style String (複習講義)][tp-c-str-handout]| [Week3-2 C-style String][hc-c-string] |[北區影片 - 上課側錄][tp-c-str-recording] <br> [北區影片 - 字串函數細講][tp-c-str-func-recording] |
 
 [hc-1D-array]: https://drive.google.com/file/d/1hYqneUoF2fa1SUecA2sSaTrElKHOb5l-/view?usp=sharing
 [hc-1D-array-recording]: https://www.youtube.com/watch?v=GMKnavpLvIA
@@ -48,6 +48,7 @@
 [tp-c-str-handout]: https://drive.google.com/file/d/1fwf0mjlVBmY1cpDguu0i7z2j8CPVPACL/view?usp=sharing
 [tp-c-str-slide]: https://drive.google.com/file/d/1dpYsuWkJV9sodXLbtybM2O2XnNe_dZk3/view?usp=sharing
 [tp-c-str-recording]: https://youtu.be/bORBocL3PFk
+[tp-c-str-func-recording]: https://youtu.be/E2pMDpi07zk
 [tp-c-1D-array-recording]: https://youtu.be/ug3u-pTIkX8
 
 ## 第四週 03/23
