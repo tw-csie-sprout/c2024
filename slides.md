@@ -3,8 +3,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|課程介紹|[Week1-0 課程介紹][tp-intro]|[Week1-0 課程介紹][hc-intro]|[竹區影片][hc-intro-recording] [北區影片][tp-intro-video]|
-|Hello world|[Week1-1 Hello World!][tp-helloworld]|[Week1-1 Hello World!][hc-helloworld]|[竹區影片][hc-helloworld-recording] [北區影片][tp-intro-video]|
+|課程介紹|[Week1-0 課程介紹][tp-intro]|[Week1-0 課程介紹][hc-intro]| [北區影片][tp-intro-video] [竹區影片][hc-intro-recording]|
+|Hello world|[Week1-1 Hello World!][tp-helloworld]|[Week1-1 Hello World!][hc-helloworld]| [北區影片][tp-intro-video] [竹區影片][hc-helloworld-recording] |
 |基礎IO、變數、運算子|[Week1-2 變數][tp-variable]|[Week1-2][hc-variable]|[竹區影片][hc-variable-recording]|
 
 [tp-intro]: https://drive.google.com/file/d/13yb0r1MYhdP-QHNYRJbcKOjXIXR3slbJ/view?usp=sharing
@@ -22,7 +22,7 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|條件式|[Week2-1 條件式][tp-if-else]|[Week2-1 條件式][hc-if-else]|[北區影片][tp-if-else-recording]<br>[竹區影片][hc-if-else-recording]|
+|條件式|[Week2-1 條件式][tp-if-else]|[Week2-1 條件式][hc-if-else]|[北區影片][tp-if-else-recording] [竹區影片][hc-if-else-recording]|
 |迴圈|[Week2-2 迴圈][tp-loops]|[Week2-2 迴圈][hc-loops]|[去年北區影片][tp-loops-video-alter]|
 
 [hc-if-else]: https://drive.google.com/file/d/1l_57qsBn0BMPfnEgDpgNfR9n7e8wHT3_/view?usp=drive_link
