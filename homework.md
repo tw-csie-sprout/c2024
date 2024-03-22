@@ -7,7 +7,7 @@
 | 0302 | 01 | [289 - 福祿猴的反敗][neoj-289] | [287 - 喵][neoj-287]<br>[805 - 芽芽停車場][neoj-805] |  |   |
 | 0309 | 02 | [645 - 三角形判斷][neoj-645] <br> [893 - 數字塔][neoj-893] | [451 - 我沒辦法AC都是13的錯][neoj-451] <br> [523 - 考拉茲猜想][neoj-523] | [208 - 季節判斷-2015][neoj-208] <br> [6005 - 排序了嗎？][neoj-6005] <br> [2432 - 皮卡丘打排球][neoj-2432] <br> [kahoot (竹區)][kahoot-條件式] <br> [801 - 3n+1 問題][neoj-801] <br> [206 - 九九乘法表][neoj-206] | [作業題參考解答][week2-solution] |
 | 0316 | 03 | [602 - 小蘋果][neoj-602] <br> [894 - 姓名縮寫][neoj-894] | [294 - 我愛零分][neoj-294] <br> [953 - 維吉尼亞的統計學][neoj-953] | [209 - σ．σ - 2015][neoj-209] <br> [217 - 凱薩密碼][neoj-217] <br> [988 - Sproutle][neoj-988] <br> [2333 - 訊息處理][neoj-2333] |   |
-| 0323 | 04 |  |  |  |   |
+| 0323 | 04 | [1419 - 矩陣翻轉][neoj-1419] <br> [225 - 3n+1 Problem (II)][neoj-225] <br> [226 - 成績統計][neoj-226] | [987 - 大十字][neoj-987] <br> [461 - 娃娃魚的站位哲學][neoj-461] | [214 - 踩地雷][neoj-214] <br> [938 - 3D 迷宮][neoj-938] <br> [999 - 螺旋矩陣][neoj-999] <br> [347 - 魔王戰前夜 II - 迷宮探索][neoj-347] |   |
 | 0330 | 05 |  |  |  |   |
 | 0406 | 06 | 兒童清明連假 |  |  |   |
 | 0413 | 07 |  |  |  |   |
@@ -50,3 +50,14 @@
 [neoj-217]: https://neoj.sprout.tw/problem/217/
 [neoj-988]: https://neoj.sprout.tw/problem/988/
 [neoj-2333]: https://neoj.sprout.tw/problem/2333/
+
+<!-- Week 4 -->
+[neoj-1419]: https://neoj.sprout.tw/problem/1419/
+[neoj-987]: https://neoj.sprout.tw/problem/987/
+[neoj-214]: https://neoj.sprout.tw/problem/214/
+[neoj-938]: https://neoj.sprout.tw/problem/938/
+[neoj-999]: https://neoj.sprout.tw/problem/999/
+[neoj-347]: https://neoj.sprout.tw/problem/347/
+[neoj-225]: https://neoj.sprout.tw/problem/225/
+[neoj-226]: https://neoj.sprout.tw/problem/226/
+[neoj-461]: https://neoj.sprout.tw/problem/461/
