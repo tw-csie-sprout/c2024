@@ -134,7 +134,10 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 
-## 常用表單
+## 常用連結
 |主題|連結|
 | -------- | ------- |
 |簽到表單|https://forms.gle/TBpph8ENkSy8HW476|
+|請假表單|https://forms.gle/AZfwqJ4Aew3kUJ3q6|
+|北區上課錄影|https://www.youtube.com/playlist?list=PLp5kjMAmhp--CCHHaN1V9OEfLXN2V9au5|
+|竹區上課錄影|https://www.youtube.com/playlist?list=PLp5kjMAmhp-_WbTTMryxJPQdrebpll2ow|
