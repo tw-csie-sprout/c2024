@@ -57,9 +57,10 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 | 多維陣列 |[Week4-1 多維陣列][tp-nD-array] |     |    |
-| 函式 |    |      |     |
+| 函式 | [Week4-2 函數][tp-function]   |      |     |
 
 [tp-nD-array]: https://drive.google.com/file/d/1PmflkbqXlwNrvXRc48_iBksytYVGRsL9/view?usp=sharing
+[tp-function]: https://drive.google.com/file/d/1wGg1ZLa_mwQap-SIexskL3r3uyj9fJtB/view?usp=drive_link
 
 ## 第五週 03/30
 
