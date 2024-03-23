@@ -61,7 +61,7 @@
 
 [tp-nD-array]: https://drive.google.com/file/d/1PmflkbqXlwNrvXRc48_iBksytYVGRsL9/view?usp=sharing
 [tp-nD-array-game]: https://drive.google.com/file/d/1ciOHUJwps7pgJBsNi3ai9tclX51DPJgi/view?usp=sharing
-[tp-function]: https://drive.google.com/file/d/1wGg1ZLa_mwQap-SIexskL3r3uyj9fJtB/view?usp=drive_link
+[tp-function]: https://drive.google.com/file/d/1epJWVG7p6BMU2YbLKQ0FVv_1A4kIzpHd/view?usp=drive_link
 [tp-nD-array-recording]: https://youtu.be/WiNdJEF94rE
 
 ## 第五週 03/30
