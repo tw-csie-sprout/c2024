@@ -56,11 +56,13 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 多維陣列 |[Week4-1 多維陣列][tp-nD-array] |     |    |
+| 多維陣列 |[Week4-1 多維陣列][tp-nD-array] <br> [Week4-1 多維陣列（課堂遊戲）][tp-nD-array-game] |     |  [北區影片][tp-nD-array-recording]  |
 | 函式 | [Week4-2 函數][tp-function]   |      |     |
 
 [tp-nD-array]: https://drive.google.com/file/d/1PmflkbqXlwNrvXRc48_iBksytYVGRsL9/view?usp=sharing
+[tp-nD-array-game]: https://drive.google.com/file/d/1ciOHUJwps7pgJBsNi3ai9tclX51DPJgi/view?usp=sharing
 [tp-function]: https://drive.google.com/file/d/1wGg1ZLa_mwQap-SIexskL3r3uyj9fJtB/view?usp=drive_link
+[tp-nD-array-recording]: https://youtu.be/WiNdJEF94rE
 
 ## 第五週 03/30
 
