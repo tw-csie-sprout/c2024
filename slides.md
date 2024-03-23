@@ -56,13 +56,15 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 多維陣列 |[Week4-1 多維陣列][tp-nD-array] <br> [Week4-1 多維陣列（課堂遊戲）][tp-nD-array-game] |     |  [北區影片][tp-nD-array-recording]  |
-| 函式 | [Week4-2 函數][tp-function]   |      |     |
+| 多維陣列 |[Week4-1 多維陣列][tp-nD-array] <br> [Week4-1 多維陣列（課堂遊戲）][tp-nD-array-game] |  [Week4 多維陣列與函數][hc-nD-array-and-function]   |  [北區影片][tp-nD-array-recording] [竹區影片][hc-nD-array-and-function-video] |
+| 函式 | [Week4-2 函數][tp-function]   |    |     |
 
 [tp-nD-array]: https://drive.google.com/file/d/1PmflkbqXlwNrvXRc48_iBksytYVGRsL9/view?usp=sharing
 [tp-nD-array-game]: https://drive.google.com/file/d/1ciOHUJwps7pgJBsNi3ai9tclX51DPJgi/view?usp=sharing
 [tp-function]: https://drive.google.com/file/d/1epJWVG7p6BMU2YbLKQ0FVv_1A4kIzpHd/view?usp=drive_link
 [tp-nD-array-recording]: https://youtu.be/WiNdJEF94rE
+[hc-nD-array-and-function]: https://drive.google.com/file/d/16-phEL5uinV0mpofbFTa7PUqqh7QGumI/view?usp=sharing
+[hc-nD-array-and-function-video]: https://youtu.be/oT1ldnS4RFg
 
 ## 第五週 03/30
 
