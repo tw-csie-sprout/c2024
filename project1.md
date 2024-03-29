@@ -1,3 +1,3 @@
 # 大作業一
 
-還沒釋出！請好好期待！
+> 大作業一說明連結：[https://hackmd.io/@cswagger/BkRJ6KsYa][https://hackmd.io/@cswagger/BkRJ6KsYa]
