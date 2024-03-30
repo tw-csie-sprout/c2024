@@ -72,11 +72,12 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 | 結構 | [Week5-1 結構][tp-struct] | [Week5-1 結構][hc-struct] | |
-| 大作業一 | [未發布，勿點連結][project1] | | |
+| 大作業一 | [Week5-2 大作業一][project1] | [Week5-2 大作業一][project1] | [大作業一說明影片][] |
 
 [tp-struct]: https://drive.google.com/file/d/1n2yYftOXN-CCkj4h_sd4fMuhAv0T9U3a/view?usp=drive_link
 [project1]: https://hackmd.io/@cswagger/BkRJ6KsYa
 [hc-struct]: https://drive.google.com/file/d/1xPXoYbrshDnoSNvojsJZcduMk3YRPPSb/view?usp=sharing
+[project1-video]: https://youtu.be/DTfaDvwMXMg
 
 ## 第六週 04/06
 
