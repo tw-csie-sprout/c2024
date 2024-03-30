@@ -63,7 +63,7 @@
 [tp-nD-array-game]: https://drive.google.com/file/d/1ciOHUJwps7pgJBsNi3ai9tclX51DPJgi/view?usp=sharing
 [tp-function]: https://drive.google.com/file/d/1epJWVG7p6BMU2YbLKQ0FVv_1A4kIzpHd/view?usp=drive_link
 [tp-nD-array-recording]: https://youtu.be/WiNdJEF94rE
-[tp-function-recording]: https://youtu.be/YBLsTXHRZ0c 
+[tp-function-recording]: https://youtu.be/YBLsTXHRZ0c
 [hc-nD-array-and-function]: https://drive.google.com/file/d/16-phEL5uinV0mpofbFTa7PUqqh7QGumI/view?usp=sharing
 [hc-nD-array-and-function-video]: https://youtu.be/oT1ldnS4RFg
 
@@ -71,11 +71,12 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 結構 | [Week5-1 結構][tp-struct] | | |
+| 結構 | [Week5-1 結構][tp-struct] | [Week5-1 結構][hc-struct-overview] | |
 | 大作業一 | [未發布，勿點連結][project1] | | |
 
 [tp-struct]: https://drive.google.com/file/d/1n2yYftOXN-CCkj4h_sd4fMuhAv0T9U3a/view?usp=drive_link
 [project1]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[hc-struct-overview]: https://drive.google.com/file/d/1xPXoYbrshDnoSNvojsJZcduMk3YRPPSb/view?usp=sharing
 
 ## 第六週 04/06
 
@@ -149,3 +150,5 @@
 |請假表單|https://forms.gle/AZfwqJ4Aew3kUJ3q6|
 |北區上課錄影|https://www.youtube.com/playlist?list=PLp5kjMAmhp--CCHHaN1V9OEfLXN2V9au5|
 |竹區上課錄影|https://www.youtube.com/playlist?list=PLp5kjMAmhp-_WbTTMryxJPQdrebpll2ow|
+
+[hc-struct]: 
