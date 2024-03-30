@@ -71,12 +71,12 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 結構 | [Week5-1 結構][tp-struct] | [Week5-1 結構][hc-struct-overview] | |
+| 結構 | [Week5-1 結構][tp-struct] | [Week5-1 結構][hc-struct] | |
 | 大作業一 | [未發布，勿點連結][project1] | | |
 
 [tp-struct]: https://drive.google.com/file/d/1n2yYftOXN-CCkj4h_sd4fMuhAv0T9U3a/view?usp=drive_link
 [project1]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-[hc-struct-overview]: https://drive.google.com/file/d/1xPXoYbrshDnoSNvojsJZcduMk3YRPPSb/view?usp=sharing
+[hc-struct]: https://drive.google.com/file/d/1xPXoYbrshDnoSNvojsJZcduMk3YRPPSb/view?usp=sharing
 
 ## 第六週 04/06
 
@@ -150,5 +150,3 @@
 |請假表單|https://forms.gle/AZfwqJ4Aew3kUJ3q6|
 |北區上課錄影|https://www.youtube.com/playlist?list=PLp5kjMAmhp--CCHHaN1V9OEfLXN2V9au5|
 |竹區上課錄影|https://www.youtube.com/playlist?list=PLp5kjMAmhp-_WbTTMryxJPQdrebpll2ow|
-
-[hc-struct]: 
