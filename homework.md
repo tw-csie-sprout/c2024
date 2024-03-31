@@ -50,6 +50,7 @@
 [neoj-217]: https://neoj.sprout.tw/problem/217/
 [neoj-988]: https://neoj.sprout.tw/problem/988/
 [neoj-2333]: https://neoj.sprout.tw/problem/2333/
+[week3-solution]: https://hackmd.io/@cswagger/HkdSyEiCa
 
 <!-- Week 4 -->
 [neoj-1419]: https://neoj.sprout.tw/problem/1419/
