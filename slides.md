@@ -71,10 +71,11 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 結構 | [Week5-1 結構][tp-struct] | [Week5-1 結構][hc-struct] | |
+| 結構 | [Week5-1 結構][tp-struct] | [Week5-1 結構][hc-struct] | [北區影片][tp-struct-recording] |
 | 大作業一 | [Week5-2 大作業一][project1] | [Week5-2 大作業一][project1] | [大作業一說明影片][project1-video] |
 
 [tp-struct]: https://drive.google.com/file/d/1n2yYftOXN-CCkj4h_sd4fMuhAv0T9U3a/view?usp=drive_link
+[tp-struct-recording]: https://youtu.be/8pOnTF7Ndjk
 [project1]: https://hackmd.io/@cswagger/BkRJ6KsYa
 [hc-struct]: https://drive.google.com/file/d/1xPXoYbrshDnoSNvojsJZcduMk3YRPPSb/view?usp=sharing
 [project1-video]: https://youtu.be/DTfaDvwMXMg
