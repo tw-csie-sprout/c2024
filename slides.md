@@ -89,7 +89,10 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| Header file & Macro | | [Week7-1 Header file & Macro](https://docs.google.com/presentation/d/1Jpr2UaLhRV_laEZ7-c1ICSFg7Kh2pABwm8UI0Fxj8YU/edit?usp=sharing) | |
+| Header file & Macro | [Week7-1 Header file & Macro][tp-headerfile] | [Week7-1 Header file & Macro](https://docs.google.com/presentation/d/1Jpr2UaLhRV_laEZ7-c1ICSFg7Kh2pABwm8UI0Fxj8YU/edit?usp=sharing) | |
+| 遞迴 |  |  |  |
+
+[tp-headerfile]: https://drive.google.com/file/d/15c4WZAG0JTXWYMAb9eSFJKDIdZVxrOBv/view?usp=sharing
 
 ## 第八週 04/20
 
