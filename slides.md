@@ -102,10 +102,11 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| 變數生命週期、轉型、亂數 | [Week8-1 變數生命週期、轉型、亂數][tp-random] |  |  | 
+| 變數生命週期、轉型、亂數 | [Week8-1 變數生命週期、轉型、亂數][tp-random] | [Week8-1 變數生命週期、轉型、亂數][hc-random] |  | 
 | 課程複習 |  |  |  |
 
 [tp-random]: https://drive.google.com/file/d/1XWn5x9oKZzo0KCkaJTATFn4BHLJ1SZjB/view?usp=sharing
+[hc-random]: https://drive.google.com/file/d/1tgmmRLE0EBbpHVjN1zMUTZt8ldJCjeQd/view?usp=sharing
 
 ## 第九週 04/27
 
