@@ -106,7 +106,7 @@
 | 課程複習 |  |  |  |
 
 [tp-random]: https://drive.google.com/file/d/1XWn5x9oKZzo0KCkaJTATFn4BHLJ1SZjB/view?usp=sharing
-[hc-random]: https://drive.google.com/file/d/1tgmmRLE0EBbpHVjN1zMUTZt8ldJCjeQd/view?usp=sharing
+[hc-random]: https://drive.google.com/file/d/1XYPjsYn-_4gpkhWN7x1SMUiA_rQLKVn4/view?usp=sharing
 
 ## 第九週 04/27
 
