@@ -10,7 +10,7 @@
 | 0323 | 04 | [1419 - 矩陣翻轉][neoj-1419] <br> [225 - 3n+1 Problem (II)][neoj-225] <br> [226 - 成績統計][neoj-226] | [987 - 大十字][neoj-987] <br> [461 - 娃娃魚的站位哲學][neoj-461] | [214 - 踩地雷][neoj-214] <br> [938 - 3D 迷宮][neoj-938] <br> [999 - 螺旋矩陣][neoj-999] <br> [347 - 魔王戰前夜 II - 迷宮探索][neoj-347] | [作業題參考解答][week4-solution]  |
 | 0330 | 05 | [895 - 成績統計II][neoj-895] | [878 - 愁眉苦臉的小暄和懶惰的 Ruby][neoj-878] | [366 - 電話銷售員][neoj-366] <br> [344 - 拯救地球][neoj-344] | [作業題參考解答][week5-solution]  |
 | 0406 | 06 | 兒童清明連假 |  |  |   |
-| 0413 | 07 | [350 - 巴斯卡三角形][neoj-350] | [573 - 小普刷油漆][neoj-573] <br> [2024 - 無聊的小名][neoj-2024] |  |  |
+| 0413 | 07 | [350 - 巴斯卡三角形][neoj-350] | [573 - 小普刷油漆][neoj-573] <br> [2024 - 無聊的小名][neoj-2024] |  | [作業題參考解答][week7-solution] |
 | 0420 | 08 | [982 - 剪刀石頭布][neoj-982] |  |  |   |
 | 0427 | 09 |  |  |  |   |
 | 0504 | 10 |  |  |  |   |
@@ -75,6 +75,7 @@
 [neoj-350]: https://neoj.sprout.tw/problem/350/
 [neoj-573]: https://neoj.sprout.tw/problem/573/
 [neoj-2024]: https://neoj.sprout.tw/problem/2024/
+[week7-solution]: https://hackmd.io/@kenchen/Hy9jCOBe0
 
 <!-- Week 8 -->
 [neoj-982]: https://neoj.sprout.tw/problem/982/
