@@ -103,7 +103,7 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | 變數生命週期、轉型、亂數 | [Week8-1 變數生命週期、轉型、亂數][tp-random] | [Week8-1 變數生命週期、轉型、亂數][hc-random] | [北區影片][tp-random-recording] [竹區影片][hc-random-recording] | 
-| 課程複習 | [Week8-2 第一階段複習（投影片）][tp-review] <br> [Week8-2 第一階段複習（小考）][tp-review-quiz] | [Week8-2 第一階段複習（投影片）][hc-review] |  |
+| 課程複習 | [Week8-2 第一階段複習（投影片）][tp-review] <br> [Week8-2 第一階段複習（小考）][tp-review-quiz] | [Week8-2 第一階段複習（投影片）][hc-review] | [竹區影片][hc-review-recording] |
 
 [tp-random]: https://drive.google.com/file/d/1XWn5x9oKZzo0KCkaJTATFn4BHLJ1SZjB/view?usp=sharing
 [hc-random]: https://drive.google.com/file/d/1XYPjsYn-_4gpkhWN7x1SMUiA_rQLKVn4/view?usp=sharing
@@ -112,6 +112,7 @@
 [hc-review]: https://drive.google.com/file/d/1KpseWgbVwPqmkPzLakg7kdJnpml3cJWl/view
 [tp-random-recording]: https://youtu.be/9w8T1xf1uJs
 [hc-random-recording]: https://www.youtube.com/watch?v=iqLdXlXpwpA
+[hc-review-recording]: https://youtu.be/z322CQi5b8I
 
 ## 第九週 04/27
 
