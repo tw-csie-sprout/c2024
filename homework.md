@@ -11,7 +11,7 @@
 | 0330 | 05 | [895 - 成績統計II][neoj-895] | [878 - 愁眉苦臉的小暄和懶惰的 Ruby][neoj-878] | [366 - 電話銷售員][neoj-366] <br> [344 - 拯救地球][neoj-344] | [作業題參考解答][week5-solution]  |
 | 0406 | 06 | 兒童清明連假 |  |  |   |
 | 0413 | 07 | [350 - 巴斯卡三角形][neoj-350] | [573 - 小普刷油漆][neoj-573] <br> [2024 - 無聊的小名][neoj-2024] |  | [作業題參考解答][week7-solution] |
-| 0420 | 08 | [982 - 剪刀石頭布][neoj-982] |  [996 - Nash Equilibrium][neoj-996]|  |   |
+| 0420 | 08 | [982 - 剪刀石頭布][neoj-982] |  [996 - Nash Equilibrium][neoj-996]|  |  [作業題參考解答][week8-solution] <br>  [作業題題解影片][week8-solution-video]|
 | 0427 | 09 |  |  |  |   |
 | 0504 | 10 |  |  |  |   |
 | 0511 | 11 |  |  |  |   |
@@ -80,3 +80,5 @@
 <!-- Week 8 -->
 [neoj-982]: https://neoj.sprout.tw/problem/982/
 [neoj-996]: https://neoj.sprout.tw/problem/996/
+[week8-solution-video]: https://drive.google.com/file/d/1APeensMaAbbuDOLtIHhyR4L-JhXENkR9/view?usp=sharing
+[week8-solution]: https://drive.google.com/file/d/1ISYZfBlnTlQ9WspxTDx2EEwmx9Iyaios/view?usp=sharing
