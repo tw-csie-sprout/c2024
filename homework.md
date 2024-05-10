@@ -14,7 +14,7 @@
 | 0420 | 08 | [982 - 剪刀石頭布][neoj-982] |  [996 - Nash Equilibrium][neoj-996]|  |  [作業題參考解答][week8-solution] <br>  [作業題題解影片][week8-solution-video]|
 | 0427 | 09 |  |  |  |   |
 | 0504 | 10 |  |  |  |   |
-| 0511 | 11 |  |  |  |   |
+| 0511 | 11 | [8857 - 指標陣列最大值無函數][neoj-8857]  <br> [1064 - 指標陣列最大值][neoj-1064]| [1234 - 操作 Linked List][neoj-1234]  <br> [2026 - Merge Two Sorted Linked Lists][neoj-2026] |  |   |
 | 0518 | 12 |  |  |  |   |
 | 0525 | 13 |  |  |  |   |
 | 0601 | 14 |  |  |  |   |
@@ -82,3 +82,9 @@
 [neoj-996]: https://neoj.sprout.tw/problem/996/
 [week8-solution-video]: https://drive.google.com/file/d/1APeensMaAbbuDOLtIHhyR4L-JhXENkR9/view?usp=sharing
 [week8-solution]: https://drive.google.com/file/d/1ISYZfBlnTlQ9WspxTDx2EEwmx9Iyaios/view?usp=sharing
+
+<!-- Week 11 -->
+[neoj-8857]: https://neoj.sprout.tw/problem/8857/
+[neoj-1064]: https://neoj.sprout.tw/problem/1064/
+[neoj-1234]: https://neoj.sprout.tw/problem/1234/
+[neoj-2026]: https://neoj.sprout.tw/problem/2026/
