@@ -128,11 +128,11 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| 指標 | [Week11 指標 (I)][tp-pointer-part-1] <br> [Week11 指標 (II)][tp-pointer-part-2] |  |  | 
+| 指標 | [Week11 指標 (I)][tp-pointer-part-1] <br> [Week11 指標 (II)][tp-pointer-part-2] | [Week11 指標][hc-pointer-slide] |  | 
 
 [tp-pointer-part-1]: https://drive.google.com/file/d/1CM9R73UppwBIhoq6OVpP-Ga209u7ZuKu/view?usp=sharing
 [tp-pointer-part-2]: https://drive.google.com/file/d/1a7MpOKbNvTrHD2UMaYqbQLFaTCtj9_HS/view?usp=sharing
-
+[hc-pointer-slide]: https://drive.google.com/file/d/1A3W6O_WE7VNXMKeV4nqJ121hvaJYf22T/view?usp=sharing
 
 
 ## 第十二週 05/18
