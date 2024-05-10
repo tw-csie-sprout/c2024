@@ -131,7 +131,9 @@
 | 指標 | [Week11 指標 (I)][tp-pointer-part-1] <br> [Week11 指標 (II)][tp-pointer-part-2] |  |  | 
 
 [tp-pointer-part-1]: https://drive.google.com/file/d/1CM9R73UppwBIhoq6OVpP-Ga209u7ZuKu/view?usp=sharing
-[tp-pointer-part-2]: https://drive.google.com/file/d/1CM9R73UppwBIhoq6OVpP-Ga209u7ZuKu/view?usp=sharing
+[tp-pointer-part-2]: https://drive.google.com/file/d/1a7MpOKbNvTrHD2UMaYqbQLFaTCtj9_HS/view?usp=sharing
+
+
 
 ## 第十二週 05/18
 
