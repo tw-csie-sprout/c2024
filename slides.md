@@ -141,6 +141,10 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
+| STL containers |  |  |  | 
+| STL functions | [Week12-2 STL functions][tp-stl-function]  |  |  |
+
+[tp-stl-function]: https://drive.google.com/file/d/1tVUzsvsMPN8J7yQds2a7y9GTUWzZJz9A/view?usp=sharing
 
 ## 第十三週 05/25
 
