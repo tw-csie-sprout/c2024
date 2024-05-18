@@ -142,7 +142,7 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | STL containers |  [Week12-1 STL Containers][tp-stl-containers] | [Week12-1 STL Containers][hc-stl-containers]  |  | 
-| STL functions | [Week12-2 STL functions][tp-stl-function]   [kahoot][tp-stl-kahoot]  | [Week12-2 STL functions][hc-stl-function] |  [北區影片][tp-stl-function-recording] [竹區影片][hc-stl-function-recording] |
+| STL functions | [Week12-2 STL functions][tp-stl-function]  <br>  [Week12-2 STL functions (kahoot)][tp-stl-kahoot]  | [Week12-2 STL functions][hc-stl-function] |  [北區影片][tp-stl-function-recording] [竹區影片][hc-stl-function-recording] |
 
 [tp-stl-function]: https://drive.google.com/file/d/1tVUzsvsMPN8J7yQds2a7y9GTUWzZJz9A/view?usp=sharing
 [tp-stl-containers]: https://drive.google.com/file/d/19QkMOXSADWBN9i6x_ZToKt9QYNZ7cG27/view?usp=sharing
