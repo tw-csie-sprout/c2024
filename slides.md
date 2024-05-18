@@ -142,13 +142,17 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | STL containers |  [Week12-1 STL Containers][tp-stl-containers] | [Week12-1 STL Containers][hc-stl-containers]  |  | 
-| STL functions | [Week12-2 STL functions][tp-stl-function]  | [Week12-2 STL functions][hc-stl-function] | [竹區影片][hc-stl-function-recording] |
+| STL functions | [Week12-2 STL functions][tp-stl-function]   [kahoot][tp-stl-kahoot]  | [Week12-2 STL functions][hc-stl-function] |  [北區影片][tp-stl-function-recording] [竹區影片][hc-stl-function-recording] |
 
 [tp-stl-function]: https://drive.google.com/file/d/1tVUzsvsMPN8J7yQds2a7y9GTUWzZJz9A/view?usp=sharing
 [tp-stl-containers]: https://drive.google.com/file/d/19QkMOXSADWBN9i6x_ZToKt9QYNZ7cG27/view?usp=sharing
 [hc-stl-function]: https://slides.com/gtcoding/stl-functions
 [hc-stl-containers]: https://docs.google.com/presentation/d/18FYxHrx_6YnW2SzzI-t4AbaqPyFhZtZyBxsEqpRmubk/edit?usp=sharing
 [hc-stl-function-recording]: https://www.youtube.com/watch?v=JSeJcesybNE
+[tp-stl-function-recording]: https://youtu.be/XDBt0JD-U2M
+[tp-stl-kahoot]: https://create.kahoot.it/share/20240518-c-kahoot/8ae6e96e-c55e-42e2-a154-4bf1f63cff39
+
+
 ## 第十三週 05/25
 
 | 主題     | 北區            | 竹區 | 影片 |
