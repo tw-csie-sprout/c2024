@@ -142,10 +142,11 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | STL containers |  [Week12-1 STL Containers][tp-stl-containers] | [Week12-1 STL Containers][hc-stl-containers]  |  | 
-| STL functions | [Week12-2 STL functions][tp-stl-function]  |  |  |
+| STL functions | [Week12-2 STL functions][tp-stl-function]  | [Week12-2 STL functions][https://slides.com/gtcoding/stl-functions] |  |
 
 [tp-stl-function]: https://drive.google.com/file/d/1tVUzsvsMPN8J7yQds2a7y9GTUWzZJz9A/view?usp=sharing
 [tp-stl-containers]: https://drive.google.com/file/d/19QkMOXSADWBN9i6x_ZToKt9QYNZ7cG27/view?usp=sharing
+[hc-stl-function]: https://slides.com/gtcoding/stl-functions
 [hc-stl-containers]: https://docs.google.com/presentation/d/18FYxHrx_6YnW2SzzI-t4AbaqPyFhZtZyBxsEqpRmubk/edit?usp=sharing
 ## 第十三週 05/25
 
