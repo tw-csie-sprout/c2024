@@ -7,9 +7,9 @@ macOS 不像 Windows 裝起來那麼複雜，只需要裝好 Docker Desktop 就�
   - 如果不是的話請下載 intel chip 的版本
 
 2. 下載完之後點開 Docker.dmg 會跳出一個類似這樣的畫面：<br><center>![drag-docker-to-application-folder](https://dockerdocs.cn/images/docker-app-drag.png)</center><br>
-   這個時候按照他的箭頭把 Docker.app 拖到 Application 資料夾裡面就好了
+   這個時候按照他的箭頭把 Docker.app 拖到 Applications 資料夾裡面就好了
 
-3. 找到 Application 資料夾，或是在 Launchpad 找到 Docker.app 的 app，戳他兩下，之後就可以按照影片的方式安裝 docker desktop 囉！
+3. 找到 Applications 資料夾，或是在 Launchpad 找到 Docker.app 的 app，戳他兩下，之後就可以按照影片的方式安裝 docker desktop 囉！
 
 4. 在 7:30 ~ 8:45 有兩個測試的指令要輸入，因為 mac 預設沒有安裝 powershell，所以要請同學們直接打開 vscode。把 vscode 下方的 terminal 打開之後在裡面輸入這兩個指令就可以測試有沒有安裝成功了！
 
