@@ -157,6 +157,10 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
+| string |   |  |  | 
+| stream |  [Week13-2 stream][tp-stream] |  |  | 
+
+[tp-stream]: https://drive.google.com/file/d/1E_9eZDNHhQlPYZXbGjBvN7lNzinro7Or/view?usp=sharing
 
 ## 第十四週 06/01
 
