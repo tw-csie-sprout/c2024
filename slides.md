@@ -157,11 +157,12 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| string |   |  |  | 
+| string |   | [Week13-1 string][hc-string] |  | 
 | stream |  [Week13-2 stream][tp-stream] | [Week13-2 stream][hc-stream] |  | 
 
 [tp-stream]: https://drive.google.com/file/d/1E_9eZDNHhQlPYZXbGjBvN7lNzinro7Or/view?usp=sharing
 [hc-stream]: https://docs.google.com/presentation/d/1uaZn7ns2O1s0hByPLxUENANxe3c5SRrftjtLRZF2LNg/edit?usp=sharing
+[hc-string]: https://docs.google.com/presentation/d/1B_Mz_BDRMwIpfYvOJMZY0nNJdenFyBPClq53r9CQ2lw/edit?usp=sharing
 
 ## 第十四週 06/01
 
