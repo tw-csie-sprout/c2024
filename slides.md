@@ -160,7 +160,7 @@
 | string |  [Week13-1 string][tp-string]  | [Week13-1 string][hc-string] |  | 
 | stream |  [Week13-2 stream][tp-stream] | [Week13-2 stream][hc-stream] |  | 
 
-[tp-string]: https://drive.google.com/file/d/1FAYk9D_ssyTL5tsKbQm0dPoyDxyfwXRy/view?usp=sharing
+[tp-string]: https://drive.google.com/file/d/1Aww10ON53SDWpkTZAyNRfb_bNY9h1Apa/view?usp=sharing
 [tp-stream]: https://drive.google.com/file/d/1E_9eZDNHhQlPYZXbGjBvN7lNzinro7Or/view?usp=sharing
 [hc-stream]: https://docs.google.com/presentation/d/1uaZn7ns2O1s0hByPLxUENANxe3c5SRrftjtLRZF2LNg/edit?usp=sharing
 [hc-string]: https://docs.google.com/presentation/d/1B_Mz_BDRMwIpfYvOJMZY0nNJdenFyBPClq53r9CQ2lw/edit?usp=sharing
