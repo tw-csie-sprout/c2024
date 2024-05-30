@@ -170,6 +170,9 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
+| class & enum |  | [Week14-1 class & enum][hc-class] |  | 
+
+[hc-class]: https://drive.google.com/file/d/1Y3YLcOle4U_6Fh_OUkQAkYN3Isc8VVhj/view?usp=sharing
 
 ## 第十五週 06/8
 
