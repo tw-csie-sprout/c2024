@@ -3,9 +3,9 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|課程介紹|[Week1-0 課程介紹][tp-intro]|[Week1-0 課程介紹][hc-intro]| [北區影片][tp-intro-video] [竹區影片][hc-intro-recording]|
-|Hello world|[Week1-1 Hello World!][tp-helloworld]|[Week1-1 Hello World!][hc-helloworld]| [北區影片][tp-intro-video] [竹區影片][hc-helloworld-recording] |
-|基礎IO、變數、運算子|[Week1-2 變數][tp-variable]|[Week1-2][hc-variable]|[竹區影片][hc-variable-recording]|
+| 課程介紹 | [Week1-0 課程介紹][tp-intro] | [Week1-0 課程介紹][hc-intro] | [北區影片][tp-intro-video] [竹區影片][hc-intro-recording] |
+| Hello world | [Week1-1 Hello World!][tp-helloworld] | [Week1-1 Hello World!][hc-helloworld] | [北區影片][tp-intro-video] [竹區影片][hc-helloworld-recording] |
+| 基礎IO、變數、運算子 | [Week1-2 變數][tp-variable] | [Week1-2][hc-variable] | [竹區影片][hc-variable-recording] |
 
 [tp-intro]: https://drive.google.com/file/d/13yb0r1MYhdP-QHNYRJbcKOjXIXR3slbJ/view?usp=sharing
 [tp-helloworld]: https://drive.google.com/file/d/1Oi6byXVdnzruwLhI5GItIHgH10VgjPwL/view?usp=sharing
@@ -22,8 +22,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-|條件式|[Week2-1 條件式][tp-if-else]|[Week2-1 條件式][hc-if-else]|[北區影片][tp-if-else-recording] [竹區影片][hc-if-else-recording]|
-|迴圈|[Week2-2 迴圈][tp-loops]|[Week2-2 迴圈][hc-loops]|[去年北區影片][tp-loops-video-alter]|
+| 條件式  | [Week2-1 條件式][tp-if-else] | [Week2-1 條件式][hc-if-else] | [北區影片][tp-if-else-recording] [竹區影片][hc-if-else-recording] |
+| 迴圈 | [Week2-2 迴圈][tp-loops] | [Week2-2 迴圈][hc-loops] | [去年北區影片][tp-loops-video-alter] |
 
 [hc-if-else]: https://drive.google.com/file/d/1l_57qsBn0BMPfnEgDpgNfR9n7e8wHT3_/view?usp=drive_link
 [hc-if-else-recording]: https://youtu.be/662wWF-F_F8
@@ -37,8 +37,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 一維陣列 |[Week3-1 一維陣列][tp-1D-array] | [Week3-1 一維陣列][hc-1D-array] | [北區影片][tp-c-1D-array-recording] [竹區影片][hc-1D-array-recording] |
-| C-style String |[Week3-2 C-Style String (上課投影片)][tp-c-str-slide] <br>  [Week3-2 C-Style String (複習講義)][tp-c-str-handout]| [Week3-2 C-style String][hc-c-string] |[北區影片 - 上課側錄][tp-c-str-recording] <br> [北區影片 - 字串函數細講][tp-c-str-func-recording] <br> [竹區影片][hc-c-string-recording] |
+| 一維陣列 | [Week3-1 一維陣列][tp-1D-array] | [Week3-1 一維陣列][hc-1D-array] | [北區影片][tp-c-1D-array-recording] [竹區影片][hc-1D-array-recording] |
+| C-style String | [Week3-2 C-Style String (上課投影片)][tp-c-str-slide] <br> [Week3-2 C-Style String (複習講義)][tp-c-str-handout] | [Week3-2 C-style String][hc-c-string] | [北區影片 - 上課側錄][tp-c-str-recording] <br> [北區影片 - 字串函數細講][tp-c-str-func-recording] <br> [竹區影片][hc-c-string-recording] |
 
 [hc-1D-array]: https://drive.google.com/file/d/1hYqneUoF2fa1SUecA2sSaTrElKHOb5l-/view?usp=sharing
 [hc-1D-array-recording]: https://www.youtube.com/watch?v=GMKnavpLvIA
@@ -56,8 +56,8 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| 多維陣列 |[Week4-1 多維陣列][tp-nD-array] <br> [Week4-1 多維陣列（課堂遊戲）][tp-nD-array-game] |  [Week4 多維陣列與函數][hc-nD-array-and-function]   |  [北區影片][tp-nD-array-recording] [竹區影片][hc-nD-array-and-function-video] |
-| 函式 | [Week4-2 函數][tp-function]   |    | [北區影片][tp-function-recording]    |
+| 多維陣列 | [Week4-1 多維陣列][tp-nD-array] <br> [Week4-1 多維陣列（課堂遊戲）][tp-nD-array-game] | [Week4 多維陣列與函數][hc-nD-array-and-function] | [北區影片][tp-nD-array-recording] [竹區影片][hc-nD-array-and-function-video] |
+| 函式 | [Week4-2 函數][tp-function] | | [北區影片][tp-function-recording] |
 
 [tp-nD-array]: https://drive.google.com/file/d/1PmflkbqXlwNrvXRc48_iBksytYVGRsL9/view?usp=sharing
 [tp-nD-array-game]: https://drive.google.com/file/d/1ciOHUJwps7pgJBsNi3ai9tclX51DPJgi/view?usp=sharing
@@ -84,12 +84,13 @@
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
+| 清明節連假 | | |
 
 ## 第七週 04/13
 
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
-| Header file & Macro | [Week7-1 Header file & Macro][tp-headerfile] | [Week7-1 Header file & Macro](https://docs.google.com/presentation/d/1Jpr2UaLhRV_laEZ7-c1ICSFg7Kh2pABwm8UI0Fxj8YU/edit?usp=sharing) | [北區影片][tp-headerfile-recording] | 
+| Header file & Macro | [Week7-1 Header file & Macro][tp-headerfile] | [Week7-1 Header file & Macro](https://docs.google.com/presentation/d/1Jpr2UaLhRV_laEZ7-c1ICSFg7Kh2pABwm8UI0Fxj8YU/edit?usp=sharing) | [北區影片][tp-headerfile-recording] |
 | 遞迴 | [Week7-2 Recursion][tp-recursion] | [Week7-2 Recursion][hc-recursion] | [北區影片][tp-recursion-recording] |
 
 [tp-headerfile]: https://drive.google.com/file/d/15c4WZAG0JTXWYMAb9eSFJKDIdZVxrOBv/view?usp=sharing
@@ -102,7 +103,7 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| 變數生命週期、轉型、亂數 | [Week8-1 變數生命週期、轉型、亂數][tp-random] | [Week8-1 變數生命週期、轉型、亂數][hc-random] | [北區影片][tp-random-recording] [竹區影片][hc-random-recording] | 
+| 變數生命週期、轉型、亂數 | [Week8-1 變數生命週期、轉型、亂數][tp-random] | [Week8-1 變數生命週期、轉型、亂數][hc-random] | [北區影片][tp-random-recording] [竹區影片][hc-random-recording] |
 | 課程複習 | [Week8-2 第一階段複習（投影片）][tp-review] <br> [Week8-2 第一階段複習（小考）][tp-review-quiz] | [Week8-2 第一階段複習（投影片）][hc-review] | [竹區影片][hc-review-recording] |
 
 [tp-random]: https://drive.google.com/file/d/1XWn5x9oKZzo0KCkaJTATFn4BHLJ1SZjB/view?usp=sharing
@@ -118,18 +119,21 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
+| 第一階段檢定考試 | | |
+
 
 ## 第十週 05/04
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
+| 第二階段準備週 | | |
 
 ## 第十一週 05/11
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-|課程介紹||[Week11-0 課程介紹][hc-intro-2nd]||
-| 指標 | [Week11 指標 (I)][tp-pointer-part-1] <br> [Week11 指標 (II)][tp-pointer-part-2] | [Week11 指標][hc-pointer-slide] |  [北區影片][tp-pointer-recording] | 
+| 課程介紹 | | [Week11-0 課程介紹][hc-intro-2nd] ||
+| 指標 | [Week11 指標 (I)][tp-pointer-part-1] <br> [Week11 指標 (II)][tp-pointer-part-2] | [Week11 指標][hc-pointer-slide] | [北區影片][tp-pointer-recording] |
 
 [tp-pointer-part-1]: https://drive.google.com/file/d/1CM9R73UppwBIhoq6OVpP-Ga209u7ZuKu/view?usp=sharing
 [tp-pointer-part-2]: https://drive.google.com/file/d/1a7MpOKbNvTrHD2UMaYqbQLFaTCtj9_HS/view?usp=sharing
@@ -141,8 +145,8 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| STL containers |  [Week12-1 STL Containers][tp-stl-containers] | [Week12-1 STL Containers][hc-stl-containers]  |  | 
-| STL functions | [Week12-2 STL functions][tp-stl-function]  <br>  [Week12-2 STL functions (kahoot)][tp-stl-kahoot]  | [Week12-2 STL functions][hc-stl-function] |  [北區影片][tp-stl-function-recording] [竹區影片][hc-stl-function-recording] |
+| STL containers |  [Week12-1 STL Containers][tp-stl-containers] | [Week12-1 STL Containers][hc-stl-containers] |  |
+| STL functions | [Week12-2 STL functions][tp-stl-function]  <br>  [Week12-2 STL functions (kahoot)][tp-stl-kahoot] | [Week12-2 STL functions][hc-stl-function] | [北區影片][tp-stl-function-recording] [竹區影片][hc-stl-function-recording] |
 
 [tp-stl-function]: https://drive.google.com/file/d/1tVUzsvsMPN8J7yQds2a7y9GTUWzZJz9A/view?usp=sharing
 [tp-stl-containers]: https://drive.google.com/file/d/19QkMOXSADWBN9i6x_ZToKt9QYNZ7cG27/view?usp=sharing
@@ -157,8 +161,8 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| string |  [Week13-1 string][tp-string]  | [Week13-1 string][hc-string] |  | 
-| stream |  [Week13-2 stream][tp-stream] | [Week13-2 stream][hc-stream] | [北區影片][tp-stream-recording]  | 
+| string |  [Week13-1 string][tp-string]  | [Week13-1 string][hc-string] |  |
+| stream |  [Week13-2 stream][tp-stream] | [Week13-2 stream][hc-stream] | [北區影片][tp-stream-recording] |
 
 [tp-string]: https://drive.google.com/file/d/1Aww10ON53SDWpkTZAyNRfb_bNY9h1Apa/view?usp=sharing
 [tp-stream]: https://drive.google.com/file/d/1E_9eZDNHhQlPYZXbGjBvN7lNzinro7Or/view?usp=sharing
@@ -170,14 +174,14 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| class & enum | [Week14-1 class & enum][tp-class] | [Week14-1 class & enum][hc-class] |  | 
+| class & enum | [Week14-1 class & enum][tp-class] | [Week14-1 class & enum][hc-class] |  |
 | 大作業二之一 簡報 | [Week14-2 大作業二 - 環境安裝與介紹][project2-1] | [Week14-2 大作業二 - 環境安裝與介紹][project2-1] |  |
 
 [tp-class]: https://drive.google.com/file/d/1r6UaSu8X_9KNDEk7Nl_hi_yN3bkRdrut/view?usp=sharing
 [hc-class]: https://drive.google.com/file/d/1Y3YLcOle4U_6Fh_OUkQAkYN3Isc8VVhj/view?usp=sharing
 [project2-1]: https://drive.google.com/file/d/1vU2vlkOUjl7oZ3dr1gkLSi8mX_7uUlAL/view?usp=drive_link
 
-## 第十五週 06/8
+## 第十五週 06/08
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
@@ -186,6 +190,7 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
+| 端午節連假 | | |
 
 ## 第十七週 06/22
 
