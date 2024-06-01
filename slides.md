@@ -171,7 +171,7 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | class & enum | [Week14-1 class & enum][tp-class] | [Week14-1 class & enum][hc-class] |  | 
-| 大作業二之一 簡報 | [Week14-2 大作業二 - 環境安裝與介紹][project2-1] |  |  |
+| 大作業二之一 簡報 | [Week14-2 大作業二 - 環境安裝與介紹][project2-1] | [Week14-2 大作業二 - 環境安裝與介紹][project2-1] |  |
 
 [tp-class]: https://drive.google.com/file/d/1r6UaSu8X_9KNDEk7Nl_hi_yN3bkRdrut/view?usp=sharing
 [hc-class]: https://drive.google.com/file/d/1Y3YLcOle4U_6Fh_OUkQAkYN3Isc8VVhj/view?usp=sharing
