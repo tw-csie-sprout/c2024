@@ -16,7 +16,7 @@
 | 0504 | 10 |  |  |  |   |
 | 0511 | 11 | [8857 - 指標陣列最大值無函數][neoj-8857]  <br> [1064 - 指標陣列最大值][neoj-1064]| [1234 - 操作 Linked List][neoj-1234]  <br> [2026 - Merge Two Sorted Linked Lists][neoj-2026] |  |   |
 | 0518 | 12 | [4949 - 萬人迷孟孟][neoj-4949] <br> [37 - Queue 練習][neoj-37] | [1111 - 撲克牌排序問題][neoj-1111] <br> [20 - 中國人排隊問題][neoj-20] | [153 - 文字轉轉轉][neoj-153] <br> [448 - 麻將排序問題][neoj-448] <br> [804 - 排序商品][neoj-804] <br> [2024 - 無聊的小明][neoj-2024] <br> [369 - 書瑾與他的泡泡們][neoj-369] <br>  | [作業題參考解答(竹區)][week12-hc-solution]  <br> [作業題參考解答(北區)][week12-tp-solution]|
-| 0525 | 13 | [441 - 禮貌校園][neoj-441] | [2334 - 字串處理][neoj-2334] |  |   |
+| 0525 | 13 | [441 - 禮貌校園][neoj-441] | [2334 - 字串處理][neoj-2334] |  | [作業題參考解答][week13-tp-solution] |
 | 0601 | 14 | [596 - class存取權限練習][neoj-596]  | 無（開始大作業二） | [1146 - Just like stack][neoj-1146] <br> [1997 - 身分組][neoj-1997] |   |
 | 0608 | 15 | 端午連假 |  |  |   |
 | 0615 | 16 |  |  |  |   |
@@ -105,6 +105,7 @@
 <!-- Week 13 -->
 [neoj-441]: https://neoj.sprout.tw/problem/441/
 [neoj-2334]: https://neoj.sprout.tw/problem/2334/
+[week13-tp-solution]: https://hackmd.io/@wcwu-wcwu/S1u7hfvV0
 
 <!-- Week 14 -->
 [neoj-596]: https://neoj.sprout.tw/problem/596/
