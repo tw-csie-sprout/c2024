@@ -23,7 +23,7 @@
 | 0511 |  11  |            |指標 (pointer)|
 | 0518 |  12  |            |STL containers (資料結構, pair, vector, queue, stack, iterator)、STL functions|
 | 0525 |  13  |            |C++ string、fstream、sstream|
-| 0601 |  14  | 大作業二公佈 |淺談 Class、大作業二 之一|
+| 0601 |  14  | 大作業二公佈 |淺談 class & enum 、大作業二 之一|
 | 0608 |  15  |            |端午節連假，本週放假一次|
 | 0615 |  16  |            |sorting、淺談複雜度、大作業二 之二|
 | 0622 |  17  |            |回顧與展望、大作業二 之三|
