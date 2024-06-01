@@ -10,5 +10,11 @@
 > macOS 只需要安裝 docker desktop 就可以用了！<br>
 > 這裡有簡單的文字教學可以參考：[點我 >w<](https://tw-csie-sprout.github.io/c2024/#!project2-mac-docker.md)
 
+(偷偷地釋出...)
+[SPEC](https://hackmd.io/@iceylemon157/BJ9Mbn2GC)
 
-還沒釋出！請好好期待！
+## Video
+
+有自動生成的 CC 字幕喔！
+
+[大作業二之一 環境安裝與介紹](https://www.youtube.com/watch?v=i_TTqyZINXc)
