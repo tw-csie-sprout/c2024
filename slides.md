@@ -193,6 +193,9 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
+| | | [Week16-1 Complexity & Sort][hc-sort] | |
+
+[hc-sort]: https://docs.google.com/presentation/d/1sJsoyc_e0RnSkHBGaF2QUt4NrVLgCmLpmr2sAKGPcJ0/edit?usp=sharing
 
 ## 第十七週 06/22
 
