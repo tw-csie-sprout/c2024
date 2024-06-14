@@ -176,7 +176,7 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | class & enum | [Week14-1 class & enum][tp-class] | [Week14-1 class & enum][hc-class] | [北區影片][tp-class-recording]  |
-| 大作業二之一 簡報 | [Week14-2 大作業二 - 環境安裝與介紹][project2-1] | [Week14-2 大作業二 - 環境安裝與介紹][project2-1] |  |
+| 大作業二之一 | [Week14-2 大作業二 - 環境安裝與介紹][project2-1] | [Week14-2 大作業二 - 環境安裝與介紹][project2-1] |  |
 
 [tp-class]: https://drive.google.com/file/d/1r6UaSu8X_9KNDEk7Nl_hi_yN3bkRdrut/view?usp=sharing
 [hc-class]: https://drive.google.com/file/d/1Y3YLcOle4U_6Fh_OUkQAkYN3Isc8VVhj/view?usp=sharing
@@ -194,9 +194,11 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | | [Week16-1 Complexity & Sort][tp-sort] | [Week16-1 Complexity & Sort][hc-sort] | |
+| 大作業二之二 ||[Week16-2 大作業二 - 製作沙拉的基礎策略][hc-project2-2]||
 
 [hc-sort]: https://docs.google.com/presentation/d/1sJsoyc_e0RnSkHBGaF2QUt4NrVLgCmLpmr2sAKGPcJ0/edit?usp=sharing
 [tp-sort]: https://drive.google.com/file/d/1C_zCwdlArX8CgeP8IvSCNCAyDQCWufNd/view?usp=sharing
+[hc-project2-2]: https://drive.google.com/file/d/1smgP8A9hnp0Xw22h2oNNcBCd263SgGXY/view
 
 ## 第十七週 06/22
 
