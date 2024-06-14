@@ -198,7 +198,7 @@
 
 [hc-sort]: https://docs.google.com/presentation/d/1sJsoyc_e0RnSkHBGaF2QUt4NrVLgCmLpmr2sAKGPcJ0/edit?usp=sharing
 [tp-sort]: https://drive.google.com/file/d/1C_zCwdlArX8CgeP8IvSCNCAyDQCWufNd/view?usp=sharing
-[hc-project2-2]: https://drive.google.com/file/d/1smgP8A9hnp0Xw22h2oNNcBCd263SgGXY/view
+[hc-project2-2]: https://drive.google.com/file/d/1lMW-F6FBgPk_BYYPA4uqVobg8peDhkB9/view?usp=sharing
 
 ## 第十七週 06/22
 
