@@ -194,12 +194,14 @@
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
 | | [Week16-1 Complexity & Sort][tp-sort] | [Week16-1 Complexity & Sort][hc-sort] | [北區影片][tp-sort-recording]|
-| 大作業二之二 ||[Week16-2 大作業二 - 製作沙拉的基礎策略][hc-project2-2]||
+| 大作業二之二 | [Week16-2 大作業二 - Making Delicious Salad][tp-project2-2] |[Week16-2 大作業二 - 製作沙拉的基礎策略][hc-project2-2]| [北區影片][tp-project2-2-recording] |
 
 [hc-sort]: https://docs.google.com/presentation/d/1sJsoyc_e0RnSkHBGaF2QUt4NrVLgCmLpmr2sAKGPcJ0/edit?usp=sharing
 [tp-sort]: https://drive.google.com/file/d/1C_zCwdlArX8CgeP8IvSCNCAyDQCWufNd/view?usp=sharing
 [hc-project2-2]: https://drive.google.com/file/d/1lMW-F6FBgPk_BYYPA4uqVobg8peDhkB9/view?usp=sharing
 [tp-sort-recording]: https://youtu.be/64cC-0C7g78
+[tp-project2-2]: https://drive.google.com/file/d/1LOpJyMsfyce-LI-NfwzEed16fVPYJj8I/view?usp=sharing
+[tp-project2-2-recording]: https://youtu.be/d2mNqxSdS18
 
 ## 第十七週 06/22
 
