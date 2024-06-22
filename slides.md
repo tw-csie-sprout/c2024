@@ -207,6 +207,9 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
+|評分標準|[Week17 大作業二-評分標準][project_scoring]|[Week17 大作業二-評分標準][project_scoring]||
+
+[project_scoring]: https://drive.google.com/file/d/1DifzzivZYz4aORZUoutA71VRzGOf4zUd/view
 
 ## 第十八週 06/29
 
