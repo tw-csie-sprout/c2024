@@ -215,11 +215,12 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-|回顧與展望|[Week18 回顧與展望-演算法][tp-algorithm-slides] | |  [影片][tp-algorithm-recording] |
+|回顧與展望|[Week18 回顧與展望-演算法][tp-algorithm-slides] | [Week18 回顧與展望-密碼學][hc-crypto-handout] | [影片][tp-algorithm-recording] |
 | | | | |
 
 [tp-algorithm-slides]: https://drive.google.com/file/d/1CL296id7PQ5YJT666KHG4WMaNPzWJnKM/view?usp=drive_link
 [tp-algorithm-recording]: https://youtu.be/tibGs6lCR58
+[hc-crypto-handout]: https://drive.google.com/file/d/1aagVkMO4uvDYIqjHVAaXJji0oFYqxCg6/view?usp=sharing
 
 ## 常用連結
 |主題|連結|
