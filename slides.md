@@ -193,7 +193,7 @@
 
 | 主題     | 北區            | 竹區 | 影片 |
 | -------- | --------------- | ---- | ---- |
-| | [Week16-1 Complexity & Sort][tp-sort] | [Week16-1 Complexity & Sort][hc-sort] | [北區影片][tp-sort-recording]|
+| sorting、淺談複雜度 | [Week16-1 Complexity & Sort][tp-sort] | [Week16-1 Complexity & Sort][hc-sort] | [北區影片][tp-sort-recording]|
 | 大作業二之二 | [Week16-2 大作業二 - Making Delicious Salad][tp-project2-2] |[Week16-2 大作業二 - 製作沙拉的基礎策略][hc-project2-2]| [北區影片][tp-project2-2-recording] |
 
 [hc-sort]: https://docs.google.com/presentation/d/1sJsoyc_e0RnSkHBGaF2QUt4NrVLgCmLpmr2sAKGPcJ0/edit?usp=sharing
